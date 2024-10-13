@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_status_options">
+        <item>Pendiente</item>
+        <item>No Pendiente</item>
+    </string-array>
+</resources>
+
